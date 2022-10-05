@@ -1,2 +1,1 @@
-# postgresOrmBinar
 # binarProject-4
